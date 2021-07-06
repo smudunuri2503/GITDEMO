@@ -1,0 +1,2 @@
+module Sindhu_Auto {
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Samsung EDge8     Samsung EDge8]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="117530" started-at="2021-06-21T12:17:19Z" finished-at="2021-06-21T12:19:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="117530" started-at="2021-06-21T12:17:19Z" finished-at="2021-06-21T12:19:17Z">
+      <class name="DriverFactory.AppTest">
+        <test-method status="PASS" signature="kickStart()[pri:0, instance:DriverFactory.AppTest@1b604f19]" name="kickStart" duration-ms="117484" started-at="2021-06-21T17:47:19Z" finished-at="2021-06-21T17:49:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Samsung EDge8     Samsung EDge8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- kickStart -->
+      </class> <!-- DriverFactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
